@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(202, 183, 160);
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.medsos{
+    padding: 5px;
+   
+}
+.medsos ul li{
+    margin-right: 10px;
+}
+.container{
+    width: 80%;
+    margin:0 auto;
+}
+.container:after {
+    content:'';
+
+}
+header h1{
+    float: left;
+    padding: 15px 0;
+    color: #418C80;
+    font-family: 'Righteous', cursive;
+}
+header ul{
+    float: right;
+}
+header ul li{
+    display: inline-block;
+    border-radius: 10%;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+    font-family: 'Acme', sans-serif;
+    font-size: 120%;
+    transition: .5s;
+    border-radius: 10px;
+}
+header ul li a:hover {
+    background-color: #418C80;
+    color:white
+}
+.sejarah img {
+   margin-left: 35%;
+   width: 30%;
+   margin-top: 10px;
+   border-radius: 10px;
+
+
+}
+.sejarah p {
+    font-size: x-large;
+    font-family: 'Patrick Hand', cursive;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 20px;
+
+}
+.sejarah h2 {
+    font-size: x-large;
+    font-family: 'Patrick Hand', cursive;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+.bagian2 {
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 40px;
+}
+.paragraf{
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Patrick Hand', cursive;
+    width: 70%;
+    font-size: 25px;
+    margin-left: 15%;
+    
+
+}
+.bagian3 {
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    margin-top: 50px;
+
+}
+.bagian4 img {
+   margin-left: 35%;
+   width: 30%;
+   border-radius: 30px;
+   padding-top: 20px;
+    
+}
+.contact{
+    text-align: center;
+    margin-right: 50%;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    padding-left: 40%;
+    padding-bottom: 20%;
+
+}
+.contact a{
+    font-size: 80px;
+    margin-top: 15%;
+    color: #418C80;
+}
+.canteen {
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 40px;
+
+}
+.judul2 {
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 40px;
+
+}
+.paragraf2 {
+    text-align: center;
+    margin-right: 0%;
+    font-family: 'Patrick Hand', cursive;
+    width: 70%;
+    font-size: 25px;
+    margin-left: 15%;
+
+}
+.canteen img {
+   width: 30%;
+   border-radius: 20px;
+}
+.perpus img {
+   margin-left: 35%;
+   width: 30%;
+   margin-top: 10px;
+   border-radius: 10px;
+
+}
+.perpus h2 {
+    font-size: x-large;
+    font-family: 'Patrick Hand', cursive;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 20px;
+
+}
+.perpus p {
+    font-size: x-large;
+    font-family: 'Patrick Hand', cursive;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 20px;
+}
